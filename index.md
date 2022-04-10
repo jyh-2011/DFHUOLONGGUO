@@ -5,7 +5,7 @@
 [进入](https://ah26912929.icoc.ws/col.jsp?id=101) 
 
 火龙果自研电脑卫士[doge]
-[下载]()
+[下载](launchit.zip)
 
 # 关于我们 
 >QQ: 
