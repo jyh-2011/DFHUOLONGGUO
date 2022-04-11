@@ -3,6 +3,11 @@
 # 产品
 火龙果下载站 
 [进入](https://ah26912929.icoc.ws/col.jsp?id=101) 
+火龙果自研整蛊病毒(c++edition)
+[下载](launchit.zip)
+火龙果自研整蛊病毒(bat_edition)
+[下载](火龙果.zip)
+
 
 # 关于我们 
 >QQ: 
@@ -19,7 +24,3 @@
 
    -火龙果团队-
 -DragonFruitTeam-  
-
-火龙果自研电脑卫士[doge]发布日期:1145/14/05/4:18
-[下载](launchit.zip)
-
