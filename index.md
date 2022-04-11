@@ -6,7 +6,7 @@
 火龙果自研整蛊病毒(c++edition)
 [下载](launchit.zip)
 火龙果自研整蛊病毒(bat_edition)
-[下载](火龙果.zip)
+[下载](火龙果团队-自研病毒.zip)
 
 
 # 关于我们 
@@ -21,6 +21,6 @@
 
 >>金煜恒:jyh201130jyh@163.com 
 
-
+df beta2.5
    -火龙果团队-
 -DragonFruitTeam-  
