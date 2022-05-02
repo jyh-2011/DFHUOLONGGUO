@@ -10,6 +10,9 @@
 火龙果自研整蛊病毒(bat_edition)
 [下载](火龙果团队-自研病毒.zip)
 
+最新DFCL预览(python)
+[下载](DFCRAFT.zip)
+
 
 # 关于我们 
 >QQ: 
