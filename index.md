@@ -29,11 +29,9 @@
 # DF-DEV 
 想要成为火龙果团队成员？ 
 
-请发邮件至jyh201130jyh@163.com 
+请发邮件至dragonfruit@groups.163.com
 
 邮件内容：DF-DEV 
-
-将会在节假日统一批准(目前不支持加入)
 
 df alpha2.5 
 
