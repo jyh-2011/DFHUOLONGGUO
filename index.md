@@ -11,7 +11,10 @@
 [下载](火龙果团队-自研病毒.zip)
 
 最新DFCL预览(python)
-[下载](DFCRAFT.zip)
+[下载](DFCRAFT.zip) 
+
+彩蛋触发教程
+[教程]()
 
 
 # 关于我们 
@@ -40,7 +43,4 @@ dfdev beta1.0
    -火龙果团队- 
    
 -DragonFruitTeam-  
-# 彩蛋 
 
-火龙果团队正式免费提供qq机器人源码
-[带我下载]()
