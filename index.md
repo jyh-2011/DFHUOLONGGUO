@@ -40,3 +40,7 @@ dfdev beta1.0
    -火龙果团队- 
    
 -DragonFruitTeam-  
+# 彩蛋 
+
+火龙果团队正式免费提供qq机器人源码
+[带我下载]()
