@@ -14,7 +14,10 @@
 [下载](DFC2.zip)
 
 彩蛋触发教程
-[教程](QQ图片20220506104044.jpg)
+[教程](QQ图片20220506104044.jpg) 
+
+火龙果的幸福生活
+[进入](https://dragonfruitcloud.xyz) 
 
 minecraft server for1.7-1.17    QQ群号：421058810
 
