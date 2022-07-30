@@ -2,7 +2,7 @@
 # DragonFruit-official
 # 产品
 火龙果下载站 
-[进入](https://ah26912929.icoc.ws/col.jsp?id=101)  
+[进入](http://www.dragonfruit666.com/)  
 
 火龙果自研整蛊病毒(c++edition)
 [下载](launchit.zip) 
