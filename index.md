@@ -19,7 +19,7 @@
 火龙果的幸福生活
 [进入](https://dragonfruitcloud.xyz) 
 
-minecraft server for1.7-1.17    QQ群号：421058810
+minecraft server for 1.17-1.19  QQ群号：421058810
 
 
 # 关于我们 
