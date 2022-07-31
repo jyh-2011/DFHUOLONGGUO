@@ -1,51 +1,44 @@
-# 火龙果团队-官方网站
-# DragonFruit-official
+# 火龙果团队-官方网站 DragonfruitTeam-Official
+
+# 介绍
+火龙果团队创建于2021年，一个新团队的产生，往往伴随着一个奇特的构思和策划。
+
+我们孕育着同一个理想、目标，出发点不同但目的一样。
+
+年轻的心在这一刻相聚、团结一致、折破风浪，勇敢起航。
+
+我们的成员拥有着全新的思想和理念，将打造全新的方案。
 # 产品
-火龙果下载站 
-[进入](http://www.dragonfruit666.com/)  
-
-火龙果自研整蛊病毒(c++edition)
-[下载](launchit.zip) 
-
-火龙果自研整蛊病毒(bat_edition)
-[下载](火龙果团队-自研病毒.zip)
 
 火龙果世界游戏(DFC-3)
 [下载](DFC-3.zip)
 
-彩蛋触发教程
-[教程](QQ图片20220506104044.jpg) 
+火龙果团队自研整蛊病毒(c++edition)
+[下载](launchit.zip) 
 
-火龙果的幸福生活
-[进入](https://dragonfruitcloud.xyz) 
+火龙果团队自研整蛊病毒(bat_edition)
+[下载](火龙果团队-自研病毒.zip)
 
-minecraft server for 1.17-1.19  QQ群号：421058810
+更多产品请访问火龙果的幸福生活
+[访问](https://dragonfruitcloud.xyz)
 
+# 核心成员
+战神火龙果 团队负责人、网站管理
 
-# 关于我们 
->QQ: 
->>战神火龙果:3358955879 
+金煜恒 软件及程序开发
 
->>jyh:2485852035 
+邓某人 金主
 
->Email: 
+# 联系我们 
+Email：dragonfruit@groups.163.com
 
->>战神火龙果:brian_zlx@163.com 
-
->>jyh:jyh201130jyh@163.com 
-
-# DF-DEV 
+# 加入我们
 想要成为火龙果团队成员？ 
 
-请发邮件至dragonfruit@groups.163.com
+请发邮件至 dragonfruit@groups.163.com
 
-邮件内容：DF-DEV 
+邮件中请介绍你的特长和能给团队带来什么
 
-df alpha2.5 
-
-dfdev beta1.0
-
-   -火龙果团队- 
-   
--DragonFruitTeam-  
-
+# 更多网站
+[火龙果的幸福生活](https://dragonfruitcloud.xyz)
+[火龙果云官方网站](https://pitayacloud.fun)
