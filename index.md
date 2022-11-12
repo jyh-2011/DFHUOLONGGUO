@@ -8,12 +8,13 @@
 年轻的心在这一刻相聚、团结一致、折破风浪，勇敢起航。
 
 我们的成员拥有着全新的思想和理念，将打造全新的方案。
+
 # 产品
 
 火龙果世界游戏(DFC-5)
-[下载](DFC5-STABLE-1.0.zip)
+[下载](DFC-5-1.zip)
 
-火龙果团队自研整蛊病毒(c++edition)
+火龙果团队自研整蛊病毒(c++_edition)
 [下载](launchit.zip) 
 
 火龙果团队自研整蛊病毒(bat_edition)
@@ -22,27 +23,16 @@
 更多产品请访问火龙果的幸福生活
 [访问](https://dragonfruitcloud.xyz)
 
-# 核心成员
-战神火龙果 团队负责人、网站管理
-
-JYH 软件及程序开发
-
-凯瑞 Linux大佬
-
-邓某人 金主
-
-鸽子 金主
-
 # 联系我们 
 Email：dragonfruit@groups.163.com
 
 # 加入我们
 想要成为火龙果团队成员？ 
 
-请发邮件至 dragonfruit@groups.163.com
+请发送电子邮件至上方邮箱
 
 邮件中请介绍你的特长和能给团队带来什么
 
 # 更多网站
+[火龙果云电脑](https://pitayacloud.fun)
 [火龙果的幸福生活](https://dragonfruitcloud.xyz)
-[火龙果云官方网站](https://pitayacloud.fun)
