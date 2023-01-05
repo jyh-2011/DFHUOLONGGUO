@@ -11,14 +11,14 @@
 
 # 产品
 
+火龙果浏览器(DFB)
+[下载](DFB.zip)
+
+火龙果记事本(noter)
+[下载](noter1.zip)
+
 火龙果世界游戏(DFC-5)
 [下载](DFC-5-1.zip)
-
-火龙果团队自研整蛊病毒(c++_edition)
-[下载](launchit.zip) 
-
-火龙果团队自研整蛊病毒(bat_edition)
-[下载](火龙果团队-自研病毒.zip)
 
 更多产品请访问火龙果的幸福生活
 [访问](https://dragonfruitcloud.xyz)
